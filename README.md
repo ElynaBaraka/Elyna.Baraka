@@ -3,7 +3,7 @@
 <h3 align="center">💻 Étudiante en Intelligence Artificielle & Data | Future Data Scientist 🚀</h3>
 
 <p align="center">
-🎓 Bachelor 3 Intelligence Artificielle & Data @ Ynov Campus Paris Nanterre <br>
+🎓 Bachelor 3 Intelligence Artificielle & Data @ l'école HETIC <br>
 📍 Basée à Paris | 💬 Français 🇫🇷 & Anglais 🇬🇧 | 🚗 Permis B
 </p>
 
@@ -14,7 +14,7 @@
 Passionnée par la **découverte de valeur à partir des données**, j’aime comprendre les besoins métier,  
 analyser, modéliser et transformer la data en **actions stratégiques et mesurables**.
 
-🎯 Objectif : Devenir **Data Scientist** et contribuer à des projets d’**IA appliquée à la performance business**.
+🎯 Objectif : Devenir **Data Analyst** et contribuer à des projets d’**IA appliquée à la performance business**.
 
 > _"Les données racontent une histoire — je suis là pour la comprendre, l’analyser et la transformer en action."_ ✨
 
@@ -36,8 +36,8 @@ analyser, modéliser et transformer la data en **actions stratégiques et mesura
 
 ## 🎓 Formation
 
-🎓 **Bachelor 3 – Intelligence Artificielle & Data**, Ynov Campus Paris Nanterre (2025–2026)  
-🎓 **Licence Informatique**, Université Côte d’Azur (Nice) (2021–2025)  
+🎓 **Bachelor 3 – Intelligence Artificielle & Data**, école HETC (2025–2026)  
+🎓 **Licence Informatique**, Université Mouloud Mammeri et l'Université Côte d’Azur (Nice) (2021–2025)  
 🎓 **Baccalauréat Sciences Expérimentales** (2021)
 
 ---
