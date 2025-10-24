@@ -1,6 +1,6 @@
 <!-- Bannière / Introduction -->
 <h1 align="center">👋 Hello, je suis <span style="color:#A0522D;">Elyna Baraka</span></h1>
-<h3 align="center">💻 Étudiante en Intelligence Artificielle & Data | Future Data Scientist 🚀</h3>
+<h3 align="center">💻 Étudiante en Intelligence Artificielle & Data | Future Data Analyst 🚀</h3>
 
 <p align="center">
 🎓 Bachelor 3 Intelligence Artificielle & Data @ l'école HETIC <br>
