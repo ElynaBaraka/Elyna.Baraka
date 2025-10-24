@@ -89,14 +89,6 @@ analyser, modéliser et transformer la data en **actions stratégiques et mesura
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical" alt="Elyna's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
-
----
 
 ## 🌐 Me contacter
 
