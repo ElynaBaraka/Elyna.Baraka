@@ -22,15 +22,15 @@ analyser, modéliser et transformer la data en **actions stratégiques et mesura
 
 ## 💼 Expériences professionnelles
 
-### 🧩 Assistant Data Analyst – **Relay** (05/2025 – 08/2025)
-- Création de **dashboards Power BI** pour suivre la performance de **20+ boutiques**.  
-- Extraction, nettoyage et analyse de données de ventes avec **SQL** et **Python (Pandas)**.  
-- Collaboration avec les équipes opérationnelles pour **optimiser la performance**.
+### Projet Excel – Analyse & Dashboards (NOVEMBRE 2025)
+- Nettoyage, transformation et structuration de jeux de données complexes avec Excel (formules avancées, Power Query).
+- Création de dashboards dynamiques et de graphiques interactifs pour synthétiser les KPIs clés.
+- Analyse exploratoire des données et restitution d’insights pour des utilisateurs non techniques.
 
-### 💻 Développeur Web – **Promovacances** (02/2024 – 03/2024)
-- Conception de la **base de données relationnelle** et modélisation UML.  
-- Structuration et optimisation des échanges de données.  
-- Développement d’une **interface HTML/CSS/PHP** pour tester les flux de données.
+### 💻Projet Power BI – Analyse de données retail ( JANVIER 2026)
+- Préparation des données avec Python (Pandas) et SQL pour intégration dans Power BI.
+- Conception de dashboards interactifs et définition de KPIs business.
+- Analyse exploratoire pour identifier tendances et anomalies et faciliter la prise de décision.
 
 ---
 
